@@ -2,6 +2,11 @@
 
 ![jihye's github stats](https://github-readme-stats.vercel.app/api?username=jihye1211&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+##### SNS
+<a href="https://dev-wisdom.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://github.com/jihye1211"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://blog.naver.com/wisd_om"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <!--
 **jihye1211/jihye1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
