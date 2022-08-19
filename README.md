@@ -1,13 +1,19 @@
 <!-- <div align="center"></div> -->
 <h1>Hi, I'm jihye 👋</h1>
 
+## 🙇🏻‍♀️ Introduction
+안녕하세요! 곧 2년차가 되가는 1년차 백엔드 개발자입니다.<br>
+크롤링과 DataBase CURD 중에서도 데이터 출력 작업을 주로 하고 있습니다.
 
-<h2>Back-end Developer</h2>
-<h3>information</h3>
-<b>🏢 in Seocho-gu</b><br>
-<b>🗂 development Department</b><br>
-<b>🐎 2022.02.01 ~ ing</b><br>
-<h3>work</h3>
+
+## 💡 Information
+👩🏻‍💻 Back-end Developer<br>
+🏢 Corporation in Seocho-gu<br>
+🗂 development Department<br>
+🐎 2022.02.01 ~ ing<br>
+
+
+## 🙌 Work
 <li>데이터 크롤링<br></li>
 <li>수집 및 모니터링<br></li>
 <li>운영 사이트 유지보수<br></li>
@@ -16,8 +22,10 @@
 ## 🛠 Tech Stack
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=000000"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+
 ## 🌱 Learning
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=232F3E"/>
+
 
 ## 💬 SNS
 <a href="https://dev-wisdom.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
@@ -30,8 +38,9 @@
 <br>
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wisd_om)](https://solved.ac/wisd_om/)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisd_om)](https://solved.ac/wisd_om)
+Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wisd_om)](https://solved.ac/wisd_om)
 
 <!--
 **jihye1211/jihye1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
