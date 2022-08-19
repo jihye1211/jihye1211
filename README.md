@@ -31,7 +31,7 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jihye1211)](https://solved.ac/jihye1211)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisd_om)](https://solved.ac/wisd_om)
 
 <!--
 **jihye1211/jihye1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
